@@ -1,0 +1,144 @@
+{
+   "products":[
+      {
+         "id": 1,
+         "name": "blazer traje pata de gallo",
+         "img": "https://static.zara.net/photos///2023/S/0/2/p/1564/390/401/2/w/534/1564390401_1_1_1.jpg?ts=1689847981763",
+         "category": "men",
+         "price": 50
+       },
+       {
+           "id": 2,
+           "name": "blazer traje slim fit",
+           "img": "https://static.zara.net/photos///2023/W/0/2/p/0604/667/401/2/w/534/0604667401_1_1_1.jpg?ts=1677580440862",
+           "category": "men",
+           "price": 100
+       },
+       {
+           "id": 3,
+           "name": "blazer traje slim fit",
+           "img": "https://static.zara.net/photos///2023/W/0/2/p/0604/667/801/2/w/534/0604667801_1_1_1.jpg?ts=1677580458297",
+           "category": "men",
+           "price": 150
+       },
+       {
+           "id": 4,
+           "name": "blazer traje slim fit",
+           "img": "https://static.zara.net/photos///2023/W/0/2/p/0604/667/800/2/w/534/0604667800_1_1_1.jpg?ts=1677580440532",
+           "category": "men",
+           "price": 200
+       },
+       {
+           "id": 5,
+           "name": "blazer traje estructura",
+           "img": "https://static.zara.net/photos///2022/I/0/2/p/6861/350/420/2/w/534/6861350420_1_1_1.jpg?ts=1660674419384",
+           "category": "men",
+           "price": 250
+       },
+       {
+           "id": 6,
+           "name": "blazer traje estructura",
+           "img": "https://static.zara.net/photos///2023/V/0/1/p/6861/350/401/2/w/534/6861350401_1_1_1.jpg?ts=1675252015390",
+           "category": "men",
+           "price": 300
+       },
+       {
+           "id": 7,
+           "name": "blazer conjunto estructura",
+           "img": "https://static.zara.net/photos///2022/S/0/2/p/4545/989/401/2/w/534/4545989401_1_1_1.jpg?ts=1656401672333",
+           "category": "men",
+           "price": 350
+       },
+       {
+           "id": 8,
+           "name": "blazer traje estructura",
+           "img": "https://static.zara.net/photos///2023/S/0/2/p/5676/185/400/2/w/534/5676185400_1_1_1.jpg?ts=1686904603801",
+           "category": "men",
+           "price": 400
+       },
+       {
+           "id": 9,
+           "name": "blazer traje estructura",
+           "img": "https://static.zara.net/photos///2023/W/0/2/p/7372/620/430/2/w/534/7372620430_1_1_1.jpg?ts=1680519667568",
+           "category": "men",
+           "price": 450
+       },
+       {
+           "id": 10,
+           "name": "blazer traje estructura",
+           "img": "https://static.zara.net/photos///2023/W/0/2/p/7372/620/811/2/w/534/7372620811_1_1_1.jpg?ts=1680184861419",
+           "category": "men",
+           "price": 500
+       },
+       {
+         "id": 11,
+         "name": "gabardina corta oversize",
+         "img": "https://static.zara.net/photos///2023/S/0/1/p/4432/706/707/2/w/613/4432706707_2_2_1.jpg?ts=1683631847980",
+         "category": "women",
+         "price": 50
+       },
+       {
+           "id": 12,
+           "name": "gabardina corta oversize",
+           "img": "https://static.zara.net/photos///2023/S/0/1/p/4432/706/707/502/w/534/4432706707_1_1_1.jpg?ts=1683645732635",
+           "category": "women",
+           "price": 100
+       },
+       {
+           "id": 13,
+           "name": "gabardina oversize bolsillos",
+           "img": "https://static.zara.net/photos///2022/I/0/1/p/0518/269/802/2/w/613/0518269802_2_1_1.jpg?ts=1662538511944",
+           "category": "women",
+           "price": 150
+       },
+       {
+           "id": 14,
+           "name": "abrigo efecto pelo",
+           "img": "https://static.zara.net/photos///2023/W/0/1/p/1255/895/811/502/w/613/1255895811_2_1_1.jpg?ts=1683799862331",
+           "category": "women",
+           "price": 200
+       },
+       {
+           "id": 15,
+           "name": "abrigo bouclé",
+           "img": "https://static.zara.net/photos///2022/I/0/1/p/8073/273/704/3/w/613/8073273704_2_1_1.jpg?ts=1665750970346",
+           "category": "women",
+           "price": 250
+       },
+       {
+           "id": 16,
+           "name": "chaleco largo",
+           "img": "https://static.zara.net/photos///2022/I/0/1/p/3046/286/802/17/w/613/3046286802_2_3_1.jpg?ts=1664452639896",
+           "category": "women",
+           "price": 300
+       },
+       {
+           "id": 17,
+           "name": "abrigo oversize soft",
+           "img": "https://static.zara.net/photos///2022/I/0/1/p/3046/301/802/12/w/613/3046301802_1_1_1.jpg?ts=1670425880944",
+           "category": "women",
+           "price": 350
+       },
+       {
+           "id": 18,
+           "name": "trench efecto piel cinturón",
+           "img": "https://static.zara.net/photos///2023/V/0/1/p/4369/041/800/17/w/613/4369041800_2_5_1.jpg?ts=1676034386100",
+           "category": "women",
+           "price": 400
+       },
+       {
+           "id": 19,
+           "name": "abrigo efecto pelo limited edition",
+           "img": "https://static.zara.net/photos///2022/I/0/1/p/4360/241/706/17/w/613/4360241706_1_1_1.jpg?ts=1667553218926",
+           "category": "women",
+           "price": 450
+       },
+       {
+           "id": 20,
+           "name": "abrigo estructura",
+           "img": "https://static.zara.net/photos///2022/I/0/1/p/8545/754/251/2/w/613/8545754251_2_1_1.jpg?ts=1665487555279",
+           "category": "women",
+           "price": 500
+       }
+ ]
+}
